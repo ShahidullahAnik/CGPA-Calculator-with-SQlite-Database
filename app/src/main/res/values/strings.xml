@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CalculateCGPA</string>
+    <string name="result_book">Result Book</string>
+    <string name="calculate_cgpa">Calculate CGPA</string>
+    <string name="icon_credit">Icon made by Freepik from www.flaticon.com</string>
+    <string name="course_name">Course Name</string>
+    <string name="credit">Credit</string>
+    <string name="gpa">Gpa</string>
+    <string name="add_btn">ADD</string>
+    <string name="cgpa">CGPA</string>
+    <string name="_0_00">0.00</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dialogue_header">Selected Entry No: </string>
+    <string name="please_give_a_valid_semester_name">Please Give a Valid Semester Name</string>
+    <string name="add_new_semester">Add New Semester</string>
+    <string name="credit_text">Credit:</string>
+    <string name="add_new_course_s">Add New Course(s)</string>
+    <string name="save_new_course">Save New Course(s)</string>
+    <string name="about">About</string>
+    <string name="clear">Clear</string>
+    <string name="summer_18">Ex: Summer\'18</string>
+</resources>
